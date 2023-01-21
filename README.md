@@ -14,10 +14,13 @@ Simple checksum tool built with DearPyGui in Python 3.x
 5. Program spits out what it found. See below for examples.
 
 If the hash matches any of checksums:
+
 ![GUI when hash matches](screenshots/match_found.png)
 
 If the hash didn't match any of the checksums:
+
 ![GUI when hash does NOT match any](screenshots/match_notfound.png)
+
 
 ## License ![GitHub](https://img.shields.io/github/license/StrayKoi/checksum-tool)
 Distributed under the MIT License. See `LICENSE` for more information.
