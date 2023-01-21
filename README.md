@@ -19,5 +19,5 @@ If the hash matches any of checksums:
 If the hash didn't match any of the checksums:
 ![GUI when hash does NOT match any](screenshots/match_notfound.png)
 
-## License ![GitHub](https://img.shields.io/github/license/bambookoi/Wallpaper-Renamer)
+## License ![GitHub](https://img.shields.io/github/license/StrayKoi/checksum-tool)
 Distributed under the MIT License. See `LICENSE` for more information.
